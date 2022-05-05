@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @prorodrigoh or Rodrigo Henriques
+- 
 - 👀 I’m interested in Finances, Banking, Science, AI and a diverse environment
-- 🌱 I’m currently learning JS, API, DB and other programming languages 
+- 
+- 🌱 I’m proficient with JS, Node APIs, SQL, Mongo and Firestore besides other programming languages 
+- 
 - 💞️ I’m looking to collaborate on Backend projects developed in JS
+- 
 - 📫 How to reach me : email me at pro.rodrigoh@gmail.com or find me on LinkedIn, Facebook and Twitter
 
 <!---
